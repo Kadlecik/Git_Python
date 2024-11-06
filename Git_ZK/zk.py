@@ -5,7 +5,7 @@ file.write(text_data)
 file.close()
 
 
-file = open("test1 .txt", "r")
+file = open("test1.txt", "r")
 file_data = file.read()
 file.close()
 
